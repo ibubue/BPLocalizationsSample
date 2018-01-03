@@ -1,0 +1,6 @@
+framework module LocalizationSample {
+  umbrella header "LocalizationSample-umbrella.h"
+
+  export *
+  module * { export * }
+}

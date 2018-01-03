@@ -1,0 +1,16 @@
+PODS:
+  - LocalizationSample (0.1.0)
+
+DEPENDENCIES:
+  - LocalizationSample (from `../`)
+
+EXTERNAL SOURCES:
+  LocalizationSample:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LocalizationSample: 0f88d8e4df3f243edb86070164c852ee6d4e051c
+
+PODFILE CHECKSUM: 45a42691759c436dc5a174d5302b3c2165fa2355
+
+COCOAPODS: 1.4.0.beta.1

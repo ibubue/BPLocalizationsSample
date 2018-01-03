@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LocalizationSample_Example' do
+  pod 'LocalizationSample', :path => '../'
+
+  target 'LocalizationSample_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,11 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName = "LocalizationSample";
+UILaunchStoryboardName = "LaunchScreen";
+NSCameraUsageDescription = "This App want to access your camera";
+NSContactsUsageDescription = "This App want to access your contacts";
+NSLocationAlwaysUsageDescription = "This App want to use your location data";
+NSLocationUsageDescription = "This App want to use your location data";
+NSLocationWhenInUseUsageDescription = "This App want to use your location data";
+NSMicrophoneUsageDescription = "This App want to access your microphone";
+NSPhotoLibraryAddUsageDescription = "This App want to save photos";
+NSPhotoLibraryUsageDescription = "This App want to access your photo album";

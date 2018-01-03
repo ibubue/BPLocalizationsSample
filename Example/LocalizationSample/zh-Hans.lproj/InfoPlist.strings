@@ -1,0 +1,11 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName = "本地化例子";
+UILaunchStoryboardName = "LaunchScreen(Chinese(Simplified))";
+NSCameraUsageDescription = "本地化例子 想要访问您的相机";
+NSContactsUsageDescription = "本地化例子 想要访问您的通讯录";
+NSLocationAlwaysUsageDescription = "本地化例子 想要使用位置数据";
+NSLocationUsageDescription = "本地化例子 想要使用位置数据";
+NSLocationWhenInUseUsageDescription = "本地化例子 想要使用位置数据";
+NSMicrophoneUsageDescription = "本地化例子 想要访问您的麦克风";
+NSPhotoLibraryAddUsageDescription = "本地化例子 想要写入照片";
+NSPhotoLibraryUsageDescription = "本地化例子 想要访问您的照片";
